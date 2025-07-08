@@ -32,5 +32,5 @@ Open index.html in any browser.
 
 👨‍💻 Author
 Sanni Kumar
-GitHub | LinkedIn
+
 
